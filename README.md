@@ -52,8 +52,8 @@ From the sample data:
 | File | Description |
 |---|---|
 | `Inventory_Management_System_20260610_V01.xlsx` | Excel workbook with all sheets and the dashboard |
-| `[exact-dashboard-image-file-name]` | Dashboard screenshot |
-| `[exact-pdf-file-name]` | PDF copy of the system |
+| `Inventory_Management_Dashboard_Overview_20260616_V01.jpeg` | Dashboard screenshot |
+| `Inventory_Management_System_Screenshots_20260616_V01.pdf` | PDF copy of the system |
 
 ## Author
 
