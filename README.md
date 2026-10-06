@@ -17,7 +17,7 @@ Numbers shown on the dashboard:
 | Metric | Value |
 |---|---|
 | Customers | 21 |
-| Product categories | [verify in the Products sheet: dashboard chart shows 11] |
+| Product categories | 11 |
 | Total purchase | \$64.2K |
 | Total sales | \$16.2K |
 | Stock value | \$115.8K [valued at cost or sale price?] |
