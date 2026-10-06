@@ -1,31 +1,63 @@
 # Inventory Management System (Excel)
-**Excel · Dashboard · Stock Tracking · Low-Stock Alerts**
 
+*A self-built Excel system that records purchases and sales, tracks stock levels and shows the key numbers on one dashboard.*
 
+![Inventory Management Dashboard](Inventory_Management_Dashboard_Overview_20260616_V01.jpeg)
 
-![Dashboard Overview](Inventory_Management_Dashboard_Overview_20260616_V01.jpeg)
+## Overview
 
+This project is an inventory management system built in Microsoft Excel (May 2026 – June 2026). It records purchases and sales, tracks stock for each product, and shows KPIs, charts and a low-stock alert on one dashboard.
 
+> **Note:** All data in this project is **sample data I created myself** (fictional customers and vendors). It is used only to demonstrate how the system works.
 
-## 📌 Overview
-A self-built Excel system that records purchases and sales, tracks stock and shows everything on one dashboard. All data is **sample data I created myself** (fictional customers and vendors) to demonstrate how the system works.
+## Key Metrics
 
-## ⚙️ How It Works
-1. **Master data:** Customers, Products and Vendors sheets (vendors grouped by city, state and region)
-2. **Data entry:** Purchase Entry and Sales Entry from the New Entry page
-3. **Stock calculation:** the Inventory sheet [formula used]
-4. **Dashboard:** KPIs, charts and a low-stock alert update from these sheets
+Numbers shown on the dashboard:
 
-## 📊 Key Metrics
-- 21 customers, 12 products
-- Purchase: \$64.2K · Sales: \$16.2K
-- Stock value: \$115.8K · Profit/Loss: \$67.7K [explain formula]
+| Metric | Value |
+|---|---|
+| Customers | 21 |
+| Product categories | [verify in the Products sheet: dashboard chart shows 11] |
+| Total purchase | \$64.2K |
+| Total sales | \$16.2K |
+| Stock value | \$115.8K [valued at cost or sale price?] |
+| Profit/Loss | \$67.7K [explain formula] |
 
-## 🔔 Low-Stock Alert
-When stock falls to a set level (e.g. Art at 4 units), the dashboard shows "Art Needs to re-order!" with the vendor's contact.
+## How It Works
 
-## 🛠️ Tools & Techniques
-Excel formulas [list], Tables, Charts, [Conditional Formatting / Data Validation if used]
+1. **Master data:** Customers, Products and Vendors sheets. Vendors are grouped by city, state and region ([number of vendors]).
+2. **Data entry:** Purchase and Sales entries are added from the New Entry page.
+3. **Stock tracking:** The Inventory sheet tracks the stock level of each product. [formula used]
+4. **Dashboard:** KPIs, charts and a low-stock alert are built from these sheets.
 
-## 👤 Author
-**Shanto Islam**: Data Analyst · LinkedIn:https://www.linkedin.com/in/shanto85206
+## Low-Stock Alert
+
+When a product's stock falls below [threshold], the dashboard shows an alert with the vendor's details. In the sample data, Art has 4 units left and shows the message "Art Needs to re-order!".
+
+## Key Insights
+
+From the sample data:
+
+- Art leads the Top 5 Product chart with 19 units sold.
+- Michael (\$5,745.47) and Alexander (\$3,830.31) are among the highest-value customers.
+- Art also has only 4 units left in stock, so it triggers the re-order alert.
+- [add 1–2 more insights you found in the data]
+
+## Tools
+
+- Microsoft Excel: [list the Excel functions/features you used]
+
+## Files
+
+| File | Description |
+|---|---|
+| `Inventory_Management_System_20260610_V01.xlsx` | Excel workbook with all sheets and the dashboard |
+| `[exact-dashboard-image-file-name]` | Dashboard screenshot |
+| `[exact-pdf-file-name]` | PDF copy of the system |
+
+## Author
+
+**Shanto Islam** – Data Analyst
+
+- GitHub: [shanto-islam-analytics](https://github.com/shanto-islam-analytics)
+- LinkedIn: https://www.linkedin.com/in/shanto85206
