@@ -28,4 +28,4 @@ When stock falls to a set level (e.g. Art at 4 units), the dashboard shows "Art 
 Excel formulas [list], Tables, Charts, [Conditional Formatting / Data Validation if used]
 
 ## 👤 Author
-**Shanto Islam**: Data Analyst · [LinkedIn](your-link)
+**Shanto Islam**: Data Analyst · LinkedIn:https://www.linkedin.com/in/shanto85206
